@@ -10,7 +10,6 @@ Analysis of OCI vs it's competitors AWS &amp; Azure
 
 Enterprise sellers, cloud strategists, and infrastructure leaders evaluating **Oracle Corporation** and its **Oracle Cloud Infrastructure (OCI)** offering in competitive enterprise deals.
 
-Written from the perspective of a tech sales manager targeting a **Senior Cloud Infrastructure Account Manager** role.
 
 ---
 
