@@ -1,4 +1,4 @@
-# oraclesales
+# Oracle Sales Analysis
 Analysis of OCI vs it's competitors AWS &amp; Azure
 
 # What Oracle Cloud Gets Right (And Wrong)  
