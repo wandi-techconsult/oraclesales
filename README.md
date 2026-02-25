@@ -2,7 +2,7 @@
 Analysis of OCI vs it's competitors AWS &amp; Azure
 
 # What Oracle Cloud Gets Right (And Wrong)  
-### A Commercial Perspective on OCI from a Sales Leader
+### My Perspective on OCI from a Sales Leader
 
 ---
 
