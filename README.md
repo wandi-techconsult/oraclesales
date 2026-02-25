@@ -13,9 +13,8 @@ Enterprise sellers, cloud strategists, and infrastructure leaders evaluating **O
 
 ---
 
-# Executive Summary
+# Oracle Cloud is misunderstood
 
-Oracle Cloud is misunderstood.
 
 It is not trying to beat AWS at being AWS.
 
@@ -31,15 +30,13 @@ But it struggles in:
 - Startup ecosystem penetration  
 - Perception outside Oracle customers  
 
-The opportunity for an elite enterprise seller is massive.
-
 ---
 
 # What Oracle Cloud Gets Right
 
 ## 1. Database Performance & Economics
 
-Amazon Web Services and Microsoft Azure win on breadth.
+AWS and Microsoft Azure win on breadth.
 
 Oracle wins on database depth.
 
@@ -56,8 +53,6 @@ For enterprises already running Oracle DB:
 - Performance-per-dollar can be compelling  
 - Licensing alignment is cleaner  
 
-**Sales Insight:**  
-Position OCI as the performance and cost-optimization play — not the feature-everything cloud.
 
 ---
 
@@ -75,8 +70,6 @@ In large RFP cycles, Oracle can:
 - Structure enterprise agreements  
 - Undercut hyperscaler TCO  
 
-**Sales Insight:**  
-OCI shines in competitive displacement motions where procurement is cost-focused.
 
 ---
 
@@ -95,8 +88,6 @@ OCI quietly competes well in:
 
 Oracle’s advantage: predictable, high-performance networking architecture.
 
-**Sales Insight:**  
-Target regulated, performance-sensitive verticals:
 
 - Financial services  
 - Healthcare  
@@ -164,14 +155,6 @@ It needs to:
 - Leverage commercial bundling  
 - Target cost-sensitive enterprise transformations  
 
-The role of a Senior Cloud Infrastructure Account Manager is not volume hunting.
-
-It is:
-
-- Executive alignment  
-- Multi-threaded enterprise selling  
-- Competitive displacement  
-- Strategic account expansion  
 
 ---
 
